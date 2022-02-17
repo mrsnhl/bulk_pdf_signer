@@ -1,0 +1,16 @@
+{
+  "name": "pvf_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Snehil",
+  "license": "ISC",
+  "dependencies": {
+    "html-pdf": "^3.0.1",
+    "jspdf": "^2.5.1",
+    "read-text-file": "^1.1.0"
+  }
+}
